@@ -1,6 +1,6 @@
 # Chrome DevTools
 
-Simple prohject to study developer Tools
+Simple project to study developer Tools
 
 ## License
 
